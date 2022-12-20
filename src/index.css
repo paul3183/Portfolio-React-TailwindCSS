@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.-translateX-0 {
+  transform: translateX(0%);
+}
+
+.-translateX-11 {
+  transform: translateX(-11.111%);
+}
+
+.-translateX-22 {
+  transform: translateX(-22.222%);
+}
+
+.-translateX-33 {
+  transform: translateX(-33.333%);
+}
+
+.-translateX-44 {
+  transform: translateX(-44.444%);
+}
+
+.-translateX-55 {
+  transform: translateX(-55.555%);
+  -webkit-transform: translateX(-55.555%);
+  -moz-transform: translateX(-55.555%);
+  -ms-transform: translateX(-55.555%);
+  -o-transform: translateX(-55.555%);
+}
+
+.-translateX-66 {
+  transform: translateX(-66.666%);
+}
+
+.-translateX-77 {
+  transform: translateX(-77.777%);
+}
+
+.-translateX-88 {
+  transform: translateX(-88.888%);
+}
