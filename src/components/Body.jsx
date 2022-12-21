@@ -25,7 +25,7 @@ const Body = () => {
   // })
 
   return (
-    <div className='hero min-h-screen text-center bg-[url("/src/assets/hero/3.jpg")] opacity-100'>
+    <div className='hero min-h-screen text-center bg-[url("/src/assets/hero/1.jpg")] opacity-100'>
 
       {/* start of images----------------- */}
       {/* <div className='hero-overlay overflow-hidden'>
@@ -75,7 +75,7 @@ const Body = () => {
         <CountdownTimer />
         <h2 className='text-1xl mt-4'>Hours left to hire me</h2>
       </div>
-      <div className='hero-overlay'></div>
+
       <div className='hero-content text-center text-neutral-content'>
         <div className='max-w-md'>
           <h1 className='mt-10 mb-5 text-5xl font-bold'>Welcome!</h1>
