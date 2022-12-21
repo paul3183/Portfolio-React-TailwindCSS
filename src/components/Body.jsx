@@ -25,7 +25,7 @@ const Body = () => {
   // })
 
   return (
-    <div className='hero min-h-screen text-center bg-[url("/src/assets/hero/3.jpg")]'>
+    <div className='hero min-h-screen text-center bg-[url("/src/assets/hero/3.jpg")] opacity-100'>
 
       {/* start of images----------------- */}
       {/* <div className='hero-overlay overflow-hidden'>
