@@ -1,9 +1,9 @@
 import React from 'react'
 import travel from '../assets/images/travel.jpg'
-import expert from '../assets/images-Works/GitExpertApp.png'
-import veterinary from '../assets/images-Works/Patient-Veterinary.png'
-import pokemon from '../assets/images-Works/Pokemon.png'
-import rick from '../assets/images-Works/rickMorty.png'
+import expert from '../assets/images-Works/GitExpertApp.webp'
+import veterinary from '../assets/images-Works/Patient-Veterinary.webp'
+import pokemon from '../assets/images-Works/Pokemon.webp'
+import rick from '../assets/images-Works/rickMorty.webp'
 
 const Works = () => {
   return (
@@ -12,7 +12,7 @@ const Works = () => {
         <div className="carousel w-full flex ">
 
           <div id="slide1" className="carousel-item relative w-full ">
-            <div className="card w-full text-white border-2">
+            <div className="card w-full text-white border-l-2 border-r-2 border-b-2">
               <figure className='w-full ' ><img src={expert} alt="car!" /></figure>
               <div className="card-body bg-none">
                 <h2 className="card-title">Life hack</h2>
@@ -31,7 +31,7 @@ const Works = () => {
 
 
           <div id="slide2" className="carousel-item relative w-full">
-            <div className="card w-full text-white border-2">
+            <div className="card w-full text-white border-l-2 border-r-2 border-b-2">
               <figure><img src={pokemon} alt="car!" /></figure>
               <div className="card-body">
                 <h2 className="card-title">Life hack</h2>
