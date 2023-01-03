@@ -1,17 +1,8 @@
 import React, { useEffect, useState } from 'react'
-import img1 from '../assets/hero/1.jpg'
-import img2 from '../assets/hero/2.jpg'
-import img3 from '../assets/hero/3.jpg'
-import img4 from '../assets/hero/4.jpg'
-import img5 from '../assets/hero/5.jpg'
-import img6 from '../assets/hero/6.jpg'
-import img7 from '../assets/hero/7.jpg'
-import img8 from '../assets/hero/8.jpg'
-import img9 from '../assets/hero/9.jpg'
 import CountdownTimer from './Countdown'
 
 const Body = () => {
-  const images = [img1, img2, img3, img4, img5, img6, img7, img8, img9];
+  // const images = [img1, img2, img3, img4, img5, img6, img7, img8, img9];
   const [changeImage, setChangeImage] = useState(0);
 
 
@@ -25,7 +16,7 @@ const Body = () => {
   // })
 
   return (
-    <div className='hero min-h-screen text-center bg-[url("/src/assets/hero/3.jpg")]'>
+    <div className='hero min-h-screen text-center bg-[url("/src/assets/hero/descarga.jpeg")]'>
 
       {/* start of images----------------- */}
       {/* <div className='hero-overlay overflow-hidden'>
