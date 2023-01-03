@@ -11,13 +11,13 @@ function App() {
     <div className="App">
       <NavBar />
       <Body />
-      <div className=" text-center text-3xl m-3">
-        <h2 className=" text-black">Technologies</h2>
+      <div className=" text-center text-3xl m-3 pt-24" id='technologies'>
+        <h2 className=" text-black pb-12">Technologies</h2>
         <Technologies />
       </div>
       <Valores />
-      <div className=" text-center text-3xl m-3">
-        <h2 className=" text-black">Projects</h2>
+      <div className=" text-center text-3xl m-3 pt-24">
+        <h2 className=" text-black pb-12">Projects</h2>
       </div>
       <Works />
       <Footer />

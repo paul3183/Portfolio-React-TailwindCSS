@@ -61,14 +61,14 @@ const Body = () => {
       {/* </ul>
       </div> */}
       {/* end of images */}
-      <div className='z-50 flex flex-col items-center absolute top-[70px] text-[#d1d1d1]'>
+      <div className='z-50 flex flex-col items-center absolute top-[220px] text-[#d1d1d1]'>
         <h2 className='text-1xl mb-4'>You Have Exactly</h2>
         <CountdownTimer />
         <h2 className='text-1xl mt-4'>Hours left to hire me</h2>
       </div>
       <div className='hero-overlay'></div>
       <div className='hero-content text-center text-neutral-content'>
-        <div className='max-w-md'>
+        <div className='max-w-md mt-28'>
           <h1 className='mt-10 mb-5 text-5xl font-bold'>Welcome!</h1>
           <p className='mb-5'>
             My name is Paul, i know what you are wondering is it really possible

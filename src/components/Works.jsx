@@ -12,13 +12,13 @@ const Works = () => {
         <div className="carousel w-full flex ">
 
           <div id="slide1" className="carousel-item relative w-full ">
-            <div className="card w-full text-white border-l-2 border-r-2 border-b-2">
+            <div className="card w-full text-white  border-2">
               <figure className='w-full ' ><img src={expert} alt="car!" /></figure>
-              <div className="card-body bg-none">
+              <div className="card-body bg-none mt-12">
                 <h2 className="card-title">Life hack</h2>
                 <p>How to park your car at your garage?</p>
                 <div className="card-actions justify-end">
-                  <button className="btn btn-primary">Learn now!</button>
+                  <button className="btn btn-primary"> <a href="https://www.google.com/?sa=X&ved=0ahUKEwjYnoH55db2AhWoHrkGHe_YBQIQOwgC" target='_blank' >Learn now!</a></button>
                 </div>
               </div>
             </div>
@@ -31,9 +31,9 @@ const Works = () => {
 
 
           <div id="slide2" className="carousel-item relative w-full">
-            <div className="card w-full text-white border-l-2 border-r-2 border-b-2">
+            <div className="card w-full text-white  border-2">
               <figure><img src={pokemon} alt="car!" /></figure>
-              <div className="card-body">
+              <div className="card-body bg-none mt-12">
                 <h2 className="card-title">Life hack</h2>
                 <p>How to park your car at your garage?</p>
                 <div className="card-actions justify-end">
@@ -50,7 +50,7 @@ const Works = () => {
           <div id="slide3" className="carousel-item relative w-full">
             <div className="card w-full text-white border-2">
               <figure><img src={rick} alt="car!" /></figure>
-              <div className="card-body">
+              <div className="card-body bg-none mt-12">
                 <h2 className="card-title">Life hack</h2>
                 <p>How to park your car at your garage?</p>
                 <div className="card-actions justify-end">
@@ -66,7 +66,7 @@ const Works = () => {
           <div id="slide4" className="carousel-item relative w-full ">
             <div className="card w-full text-white border-2">
               <figure><img src={veterinary} alt="car!" /></figure>
-              <div className="card-body">
+              <div className="card-body bg-none mt-12">
                 <h2 className="card-title">Life hack</h2>
                 <p>How to park your car at your garage?</p>
                 <div className="card-actions justify-end">
