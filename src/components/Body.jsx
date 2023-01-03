@@ -16,7 +16,7 @@ const Body = () => {
   // })
 
   return (
-    <div className='hero min-h-screen text-center bg-[url("/src/assets/hero/descarga.jpeg")]'>
+    <div className='hero min-h-screen text-center bg-[url("/src/assets/hero/descarga.webp")]'>
 
       {/* start of images----------------- */}
       {/* <div className='hero-overlay overflow-hidden'>
