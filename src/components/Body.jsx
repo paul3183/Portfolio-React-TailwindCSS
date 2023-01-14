@@ -68,7 +68,7 @@ const Body = () => {
       </div>
       <div className='hero-overlay'></div>
       <div className='hero-content text-center text-neutral-content'>
-        <div className='max-w-md mt-28'>
+        <div className='max-w-md mt-[370px]'>
           <h1 className='mt-10 mb-5 text-5xl font-bold'>Welcome!</h1>
           <p className='mb-5'>
             My name is Paul, i know what you are wondering is it really possible
