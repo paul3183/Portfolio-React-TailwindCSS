@@ -7,9 +7,9 @@ import sunat from '../assets/certificatesFree/sunat.webp'
 
 const CertificatedWorks = () => {
   return (
-    <div>
-      <h2>Labor Certificates</h2>
-      <div className="w-64 carousel rounded-box">
+    <div className='flex flex-col items-center'>
+      <h2 className='my-3 mt-[60px]'>Labor Certificates</h2>
+      <div className="w-64 carousel rounded-box mb-6">
         <div className="carousel-item w-full">
           <img src={mibanco} className="w-full" alt="Tailwind CSS Carousel component" />
         </div>

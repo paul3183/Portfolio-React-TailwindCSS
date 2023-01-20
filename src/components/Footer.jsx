@@ -10,9 +10,9 @@ const Footer = () => {
           <PagesView />
         </div>
         <p className="font-bold">
-          ACME Industries Ltd. <br />Providing reliable tech since 1992
+          PAUL M. RUIZ<br />working in technology since 2021
         </p>
-        <p>Copyright © 2022 - All right reserved</p>
+        <p>Copyright © 2023 - All right reserved</p>
       </div>
       <div>
         <div className="grid grid-flow-col gap-4 text-2xl">

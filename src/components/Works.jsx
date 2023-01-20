@@ -18,7 +18,7 @@ const Works = () => {
                 <h2 className="card-title">Life hack</h2>
                 <p>How to park your car at your garage?</p>
                 <div className="card-actions justify-end">
-                  <button className="btn btn-primary"> <a href="https://www.google.com/?sa=X&ved=0ahUKEwjYnoH55db2AhWoHrkGHe_YBQIQOwgC" target='_blank' >Learn now!</a></button>
+                  <button className="btn btn-primary"> <a href="https://lambent-rolypoly-f6ce82.netlify.app/" target='_blank' >Learn now!</a></button>
                 </div>
               </div>
             </div>
@@ -37,7 +37,7 @@ const Works = () => {
                 <h2 className="card-title">Life hack</h2>
                 <p>How to park your car at your garage?</p>
                 <div className="card-actions justify-end">
-                  <button className="btn btn-primary">Learn now!</button>
+                  <button className="btn btn-primary"><a href="https://heroic-shortbread-dc97c4.netlify.app" target='_blank' >Learn now!</a></button>
                 </div>
               </div>
             </div>
@@ -54,7 +54,7 @@ const Works = () => {
                 <h2 className="card-title">Life hack</h2>
                 <p>How to park your car at your garage?</p>
                 <div className="card-actions justify-end">
-                  <button className="btn btn-primary">Learn now!</button>
+                  <button className="btn btn-primary"><a href="https://charming-llama-71c1ec.netlify.app" target='_blank' >Learn now!</a></button>
                 </div>
               </div>
             </div>
@@ -70,7 +70,7 @@ const Works = () => {
                 <h2 className="card-title">Life hack</h2>
                 <p>How to park your car at your garage?</p>
                 <div className="card-actions justify-end">
-                  <button className="btn btn-primary">Learn now!</button>
+                  <button className="btn btn-primary"><a href="https://patient-monitoring-veterinary-react.netlify.app" target='_blank' >Learn now!</a></button>
                 </div>
               </div>
             </div>
